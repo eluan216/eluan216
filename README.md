@@ -1,40 +1,48 @@
-# eluann216 - Developer Profile 👨‍💻
+# Oguma Eluanatein Odo
 
-Welcome to my GitHub profile. This repository serves as a central space to showcase my work and interests as a dedicated developer specializing in **web development**, **software development**, and the creation of **SaaS products** and **minimum viable products (MVPs)**. 🚀
+**AI/ML Engineer** · Biomedical Technology · RAG systems · ML pipelines
 
----
+Building end-to-end machine learning systems—from data and model evaluation through APIs and deployment—with a focus on healthcare and industrial applications.
 
-## About Me 🌟
-
-I am a passionate developer with a strong focus on delivering high-quality, scalable solutions. My expertise lies in crafting robust web applications, developing innovative software, and designing SaaS platforms and MVPs that address real-world challenges. I am proficient in modern technologies including JavaScript, React, Node.js, Python, and more, with a commitment to writing clean, efficient, and maintainable code. 💻
-
-### Current Focus 🔧
-
-My efforts are currently directed toward building responsive web applications, creating reliable software solutions, and launching SaaS products and MVPs that provide value to users and stakeholders. 🌐
-
-### Areas of Collaboration 🤝
-
-I am open to collaborating on projects within web development, software engineering, and SaaS innovation. I welcome opportunities to work with others to develop cutting-edge solutions and bring ideas to fruition. 💡
-
-### Expertise 🎯
-
-- Web Development: Designing and implementing dynamic, user-friendly web experiences. 🌍
-- Software Development: Engineering scalable and efficient software systems. 🛠️
-- SaaS & MVP Development: Architecting and launching software-as-a-service platforms and minimum viable products. 📈
-
-### Contact 📧
-
-For inquiries, collaboration opportunities, or technical discussions, please feel free to reach out to me directly via GitHub. I am eager to engage with the developer community and contribute to meaningful projects. 🙌
-
-### Personal Details ✨
-
-- **Pronouns**: He/him 👨
-- **Fun Fact**: I find inspiration in solving complex technical challenges, often accompanied by a cup of coffee and a carefully curated playlist. ☕🎶
+[Portfolio](https://eluan216.github.io/eluanthegenius/) · [LinkedIn](https://linkedin.com/in/eluanatein-oguma-5552571b6) · [Email](mailto:ogumaeluan@gmail.com)
 
 ---
 
-## Let’s Build Something Great 🚀
+## Overview
 
-Explore my repositories to gain insight into my ongoing and past projects. I am committed to continuous learning and collaboration, and I look forward to connecting with like-minded professionals to create impactful technology solutions. 💪
+I design and implement practical ML systems with emphasis on evaluation rigor, reproducible pipelines, and deployable interfaces. Background in **Biomedical Technology (B.Sc.)** informs work on clinical-adjacent and signal-processing problems, always framed as research and portfolio demonstrations—not medical devices.
 
-Thank you for visiting my profile. 🙏
+**Primary stack:** Python · PyTorch · scikit-learn · LangChain · FAISS · FastAPI · Docker · Streamlit · MLflow
+
+---
+
+## Featured work
+
+| Project | Description |
+|--------|-------------|
+| [**ECG Arrhythmia Detection**](https://github.com/eluan216/ecg-arrhythmia-detection) | Multi-model benchmark (sklearn + 1D-CNN), stratified evaluation, FastAPI inference, Docker, CI |
+| [**LLM Document Q&A**](https://github.com/eluan216/llama-nlp-assistant) | Open-source RAG: chunking, embeddings, FAISS retrieval, Streamlit UI |
+| [**Bio-Doc AI**](https://github.com/eluan216/bio-doc-ai) | Clinical-document RAG with LangChain, FAISS, and grounded answers |
+| [**Industrial IoT Analytics**](https://github.com/eluan216/industrial-iot-analytics) | Sensor DSP, predictive maintenance, asset integrity workflows |
+| [**Predictive Maintenance (Oil & Gas)**](https://github.com/eluan216/predictive-maintenance-oil-gas) | Failure classification on synthetic/process-style features |
+| [**Sales Performance Analytics**](https://github.com/eluan216/sales-performance-dashboard) | Offline analytics pipeline with SQL-ready outputs |
+
+Full portfolio site: **[eluan216.github.io/eluanthegenius](https://eluan216.github.io/eluanthegenius/)**
+
+---
+
+## How I work
+
+- Prefer **comparable baselines** and clear selection metrics (e.g. macro-F1 under class imbalance) over single-model demos
+- Ship **runnable** repositories: synthetic data paths, tests, and CI where they add signal
+- Document constraints honestly (cold starts, API keys, research-only medical disclaimers)
+
+---
+
+## Contact
+
+Open to roles and collaborations in **ML engineering**, **applied AI**, and **healthcare/industrial analytics**.
+
+- GitHub: [eluan216](https://github.com/eluan216)
+- LinkedIn: [eluanatein-oguma](https://linkedin.com/in/eluanatein-oguma-5552571b6)
+- Email: ogumaeluan@gmail.com
