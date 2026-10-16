@@ -1,6 +1,6 @@
 # Oguma Eluanatein Odo
 
-**AI/ML Engineer** · Biomedical Technology · RAG systems · ML & imaging pipelines
+**AI/ML Engineer** · **Graduate, B.Sc. Biomedical Technology** · RAG systems · ML & imaging pipelines
 
 Building end-to-end machine learning systems—from data and model evaluation through APIs and deployment—with a focus on healthcare and industrial applications.
 
@@ -10,7 +10,7 @@ Building end-to-end machine learning systems—from data and model evaluation th
 
 ## Overview
 
-I design and implement practical ML systems with emphasis on evaluation rigor, reproducible pipelines, and deployable interfaces. Background in **Biomedical Technology (B.Sc.)** informs work on clinical-adjacent, signal-processing, and medical imaging problems, always framed as research and portfolio demonstrations—not medical devices.
+I design and implement practical ML systems with emphasis on evaluation rigor, reproducible pipelines, and deployable interfaces. I hold a **B.Sc. in Biomedical Technology** (graduated—not a current student). That background informs work on clinical-adjacent, signal-processing, and medical imaging problems, always framed as research and portfolio demonstrations—not medical devices.
 
 **Primary stack:** Python · PyTorch · scikit-learn · LangChain · FAISS · FastAPI · Docker · Streamlit · MLflow · DICOM/NIfTI · Three.js / Next.js
 
